@@ -1,5 +1,5 @@
-package Bronze_5;
-
+package 기초_문법;
+// 사칙연산
 import java.util.Scanner;
 
 public class _10869 {
