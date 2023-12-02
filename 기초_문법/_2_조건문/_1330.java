@@ -1,4 +1,4 @@
-package 기초_문법;
+package 기초_문법._2_조건문;
 import java.util.Scanner;
 // 대소비교
 public class _1330 {

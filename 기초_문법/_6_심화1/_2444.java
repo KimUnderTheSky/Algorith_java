@@ -1,4 +1,4 @@
-package 기초_문법;
+package 기초_문법._6_심화1;
 
 import java.util.Scanner;
 import java.util.ArrayList;
@@ -22,9 +22,9 @@ public class _2444 {
             for (int j = 0; j < i * 2 + 1; j++) {
                 line.append("*");
             }
-            for (int j = 0; j < num - 1 - i; j++) {
-                line.append(" ");
-            }
+//            for (int j = 0; j < num - 1 - i; j++) {
+//                line.append(" ");
+//            }
             arr.add(line.toString());
         }
 

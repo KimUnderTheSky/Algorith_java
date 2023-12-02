@@ -1,4 +1,4 @@
-package 기초_문법;
+package 기초_문법._5_문자열;
 //문자열, 문자
 import java.util.Scanner;
 

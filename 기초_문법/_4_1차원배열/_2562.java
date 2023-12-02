@@ -1,4 +1,4 @@
-package 기초_문법;
+package 기초_문법._4_1차원배열;
 import java.util.Scanner;
 import java.util.ArrayList;
 // 최댓값

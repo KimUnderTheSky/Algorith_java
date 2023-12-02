@@ -1,4 +1,4 @@
-package 기초_문법;
+package 기초_문법._1_입출력과사칙연산;
 // 사칙연산
 import java.util.Scanner;
 

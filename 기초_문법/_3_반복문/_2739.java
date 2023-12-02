@@ -1,4 +1,4 @@
-package 기초_문법;
+package 기초_문법._3_반복문;
 import java.util.Scanner;
 // 반복문 곱셈
 public class _2739 {
